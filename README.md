@@ -1,295 +1,183 @@
 
 ***
 
-# <projectName>
-
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
-### Top
-
-# `README.md`
+![NimbleBit_Logo.png](NimbleBit_Logo.png)
 
 ***
 
-## Read this article in a different language
+## Seanpm2001-NimbleBit
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+This is my NimbleBit game linking, partnership, and discovery repo, containing general info about the 10 NimbleBit games I currently play.
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+## Image repos
 
-***
+![Tiny_Tower_icon.jpg](Tiny_Tower_icon.jpg)
 
-# Index
+[Tiny Tower images](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower) <!-- 01 !-->
 
-[00.0 - Top](#Top)
+![TinyTowerVegas_Logo.jpeg](TinyTowerVegas_Logo.jpeg) 
 
-> [00.1 - Title](#<projectName>)
+[Tiny Tower Vegas images](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas) <!-- 02 !-->
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+![BitCityicon.jpg](BitCityicon.jpg)
 
-> [00.3 - Index](#Index)
+[Bit City images](https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-) <!-- 03 !-->
 
-[01.0 - Description](#RepositoryName)
+![Tinydeathstar.png](Tinydeathstar.png)
 
-[02.0 - About](#About)
+[Tiny Death Star images](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyDeathStar) <!-- 04 !-->
 
-[03.0 - Wiki](#Wiki)
+![Pocket_Trains_Logo.jpg](Pocket_Trains_Logo.jpg)
 
-[04.0 - Version history](#Version-history)
+[Pocket Trains images](https://github.com/seanpm2001/SeansLifeArchive_Images_Pocket_Trains) <!-- 05 !-->
 
-[05.0 - Software status](#Software-status)
+![Pocket_Planes_App_Logo.png](Pocket_Planes_App_Logo.png)
 
-[06.0 - Sponsor info](#Sponsor-info)
+[Pocket Planes images](https://github.com/seanpm2001/SeansLifeArchive_Images_PocketPlanes) <!-- 06 !-->
 
-[07.0 - Contributers](#Contributers)
+![Sky_Burger_Game_Logo.jpg](Sky_Burger_Game_Logo.jpg)
 
-[08.0 - Issues](#Issues)
+[Sky Burger (modern) images](https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSkyBurger) <!-- 07 !-->
 
-> [08.1 - Current issues](#Current-issues)
+![Disco_Zoo_Icon.png](Disco_Zoo_Icon.png)
 
-> [08.2 - Past issues](#Past-issues)
+[Disco Zoo images](https://github.com/seanpm2001/SeansLifeArchive_Images_DiscoZoo) <!-- 08 !-->
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+![LegoTower_Logo.jpeg](LegoTower_Logo.jpeg)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+[Lego Tower images](https://github.com/seanpm2001/SeansLifeArchive_Images_LegoTower) <!-- 09 !-->
 
-[09.0 - Resources](#Resources)
+![Pocket_Frogs.png](Pocket_Frogs.png)
 
-[10.0 - Contributing](#Contributing)
+[Pocket Frogs images](https://github.com/seanpm2001/SeansLifeArchive_Images_PocketFrogs) <!-- 10 !-->
 
-[11.0 - About README](#About-README)
+![Sky_Burger_Game_Logo.jpg](Sky_Burger_Game_Logo.jpg)
 
-[12.0 - README Version history](#README-version-history)
+[Sky Burger (classic) images](https://github.com/seanpm2001/SeansLifeArchive_Images_ClassicSkyBurger) <!-- 11 !-->
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[Mega Panda images](https://github.com/seanpm2001/SeansLifeArchive_Images_MegaPanda-NimbleBit_Game-) <!-- 12 !-->
 
-> [13.1 - End of file](#EOF)
+[Scoops images](https://github.com/seanpm2001/SeansLifeArchive_Images_Scoops_-NimbleBit_Game-) <!-- 13 !-->
 
-***
+[Hanoi images](https://github.com/seanpm2001/SeansLifeArchive_Images_Hanoi_-NimbleBit_Game-) <!-- 14 !-->
 
-# <repoName>
-<repo_description>
+[Threads images](https://github.com/seanpm2001/SeansLifeArchive_Images_Threads_-NimbleBit_Game-) <!-- 15 !-->
 
-***
+[Textropolis images](https://github.com/seanpm2001/SeansLifeArchive_Images_Textropolis_-NimbleBit_Game-) <!-- 16 !-->
 
-## About
+[Bluebird images](https://github.com/seanpm2001/SeansLifeArchive_Images_Bluebird_-NimbleBit_Game-) <!-- 17 !-->
 
-See above. <extendedRepoDescription>
+[Kyper images](https://github.com/seanpm2001/SeansLifeArchive_Images_Kyper_-NimbleBit_Game-) <!-- 18 !-->
 
-***
+[Moon Drop images](https://github.com/seanpm2001/SeansLifeArchive_Images_Moon_Drop_-NimbleBit_Game-) <!-- 19 !-->
 
-## Wiki
+[Fishtropolis — Word Fun for Everyone images](https://github.com/seanpm2001/SeansLifeArchive_Images_Fishtropolis_-NimbleBit_Game-) <!-- 20 !-->
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Dizzypad — Frog Jump Fun images](https://github.com/seanpm2001/SeansLifeArchive_Images_Dizzypad_-NimbleBit_Game-) <!-- 21 !-->
 
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+[Omium - 2 Player Shooter images](https://github.com/seanpm2001/SeansLifeArchive_Images_Omium_-NimbleBit_Game-) <!-- 22 !-->
 
-***
+[Zero Gear images](https://github.com/seanpm2001/SeansLifeArchive_Images_Zero_Gear_-NimbleBit_Game-) <!-- 23 !-->
 
-## Sponsor info
+[Nimble Quest images](https://github.com/seanpm2001/SeansLifeArchive_Images_Nimble_Quest_-NimbleBit_Game-) <!-- 24 !-->
 
-![SponsorButton.png](SponsorButton.png)
+[Golfinity images](https://github.com/seanpm2001/SeansLifeArchive_Images_Golfinity_-NimbleBit_Game-) <!-- 25 !-->
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+[Letterpad images](https://github.com/seanpm2001/SeansLifeArchive_Images_Letterpad_-NimbleBit_Game-) <!-- 26 !-->
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+[Capitals images](https://github.com/seanpm2001/SeansLifeArchive_Images_Capitals_-NimbleBit_Game-) <!-- 27 !-->
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
+[Words Royale images](https://github.com/seanpm2001/SeansLifeArchive_Images_Words_Royale_-NimbleBit_Game-) <!-- 28 !-->
 
 ***
 
-## Software status
+## How long I have been playing
 
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+I originally started playing NimbleBit games on my iPod Touch 4/iPod Touch 5 (running iOS 5, later 6) around 2011. After I phased out iOS and had to start over, I later started playing again on Android in 2019.
 
 ***
 
 ## Resources
 
-Here are some other resources for this project:
+[NimbleBit website](http://nimblebit.com/)
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file](PROJECT_LANG.nim)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
+Other resources are within project links
 
 ***
 
-## Contributing
+## File info
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
+File version: `0.02`
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
+Line count (including blank lines and compiler line): `184`
 
 ***
 
-## README version history
+## File history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+Version 1 (Tuesday, November 24th 2020 at 8:52 pm)
 
-> Changes:
+> Changes
 
 > * Started the file
 
-> * Added the title section
+> * Added the repository description
 
-> * Added the index
+> * Added the `How long I have been playing` section
 
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
+> * Added support for 13 image repositories
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Wednesday, November 25th 2020 at 7:35 pm)
+
+> Changes:
+
+> * Added a file history section
+
+> * Removed the repository description section, as it was a duplicate
+
+> * Added support for 15 more image repositories
+
+> * Added the resources section
+
+> * Added several images
+
+> * Added the file info section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
-
-***
+<!--
+Tags
+Nimblebit
+GPL3
+GPLV3
+TXT
+MD
+Wiki
+Discovery
+Tiny-tower
+Bit-city
+!-->
